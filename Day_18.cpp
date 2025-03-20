@@ -1,5 +1,4 @@
 // problem 1(Valid Anagram)
-#include <unordered_map>
 class Solution {
     public:
         bool isAnagram(string s, string t) {
